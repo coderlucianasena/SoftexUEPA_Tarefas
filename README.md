@@ -83,7 +83,7 @@ Para contribuir:
 
 - **Autora:** Luciana Sena
 - **Curso:** Desenvolvimento Backend
-- **Instituição:** Universidade Estadual do Pará
+- **Instituição:** Softex em parceria com a Universidade Estadual do Pará
 - **Localização:** Belém/Pará, Brasil
 
 ## 📄 Licença

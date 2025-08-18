@@ -92,4 +92,3 @@ Este projeto é destinado exclusivamente para fins educacionais e de aprendizado
 
 ---
 
-**Última atualização:** $(Get-Date -Format "dd/MM/yyyy")

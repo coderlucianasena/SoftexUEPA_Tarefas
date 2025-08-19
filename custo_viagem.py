@@ -1,4 +1,3 @@
-
 print("=== Planejador de Custo de Viagem ===")
 
 # Entrada de dados
